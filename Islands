@@ -2004,7 +2004,7 @@ if DeveloperVersion == false then
 	if DidKey == true then
 		Window = Fluent:CreateWindow({
 			Title = "Islands.God "..ScriptVersion.." [FREE!] "..holidayMessage,
-			SubTitle = "by neverloseyoursmile_88 and soldo_io",
+			SubTitle = "by Daddy Wayne",
 			TabWidth = 160,
 			Size = UDim2.fromOffset(580, 460),
 			Acrylic = true, -- The blur may be detectable, setting this to false disables blur entirely
